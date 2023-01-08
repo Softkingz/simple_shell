@@ -261,8 +261,7 @@ $
 
 ## Authors & Copyrights
 
-* Olayeye Ayomide <[muideen7](https://github.com/muideen7)>
-* Owoyemi Idris <[halfboyfriend](https://github.com/halfboyfriend)>
+* Chinedu Nwagbara
 
 ## More information
 
